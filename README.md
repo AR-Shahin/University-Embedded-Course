@@ -12,3 +12,11 @@ In this repository, I uploaded a couple of lab experiment codes and a project I'
 
 ## Final Project (Attendance System Using Face Recognition)
 
+
+
+
+### Few snapshots of our project. 
+
+[![image](https://www.linkpicture.com/q/photo_২০২৩-০১-১২_১৯-৫৭-৫৮.jpg)](https://www.linkpicture.com/view.php?img=LPic63c24e7a13f521410797471)
+
+[![image](https://www.linkpicture.com/q/photo_২০২৩-০১-১২_১৯-৫৭-৫৯.jpg)](https://www.linkpicture.com/view.php?img=LPic63c24ebcb52101475792211)
