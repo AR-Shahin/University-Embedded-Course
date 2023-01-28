@@ -16,7 +16,7 @@ In this repository, I uploaded a couple of lab experiment codes and a project I'
 Our Automated attendance system represents a significant advancement in attendance tracking. We have developed a highly accurate, efficient, and user-friendly system by integrating cutting-edge technologies such as Raspberry Pi and machine learning. The system utilizes a combination of three sensors and three actuators to ensure that attendance is recorded accurately and in real-time. The use of the Raspberry Pi allows for a compact and portable design, making it easy to implement in any setting. Furthermore, implementing machine learning algorithms allows the system to improve continuously over time, ensuring maximum accuracy and efficiency. This makes it an ideal solution for organizations of all types and sizes, from small businesses to large corporations. The successful implementation of this project is a testament to the power of technological innovation and its ability to revolutionize how we track attendance. It is a product of hard work, creativity, and passion for providing an efficient solution for attendance tracking. We are proud of our accomplishment and look forward to its future applications.
 
 ### Actuators and Sensors
-- Raspberry Pi
+- Raspberry Pi (3)
 - Pi Camera
 - Ultrasonic Distance Sensor
 - IR Sensor
